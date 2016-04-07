@@ -24,6 +24,9 @@
     <Content Include="TravelRequest.sodx">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="TravelRequestRegion.sodx">
+      <SubType>Content</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SourceCode\v3.5\ProjectSystem.targets" />
 </Project>
